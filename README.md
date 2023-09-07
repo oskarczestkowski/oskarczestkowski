@@ -1,12 +1,12 @@
 ### Hi there, I'm Oskar 👋
 
-- 🤔 I'm 19 and I'm currently studying at University of Gdańsk.
+- 🤔 I'm 21 and I'm currently studying at University of Gdańsk.
 - 💬 Most of my time i spend on creating music, I'm also interested in technology and sports.
-- 🌱 I’m currently learning Java, HTML5, JavaScript.
+- 🌱 I’m currently learning Angular.
 
 ### Skills: 
 
-Java, HTML5, JavaScript, MySQL, CSS, C#
+ASP.NET CORE, MVC, SQL
 
 <!--
 **oskarczestkowski/oskarczestkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
