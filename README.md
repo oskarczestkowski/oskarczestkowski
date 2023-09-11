@@ -6,7 +6,7 @@
 
 ### Skills: 
 
-ASP.NET CORE, MVC, SQL
+ASP.NET CORE, MVC, SQL, ANGULAR
 
 <!--
 **oskarczestkowski/oskarczestkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
